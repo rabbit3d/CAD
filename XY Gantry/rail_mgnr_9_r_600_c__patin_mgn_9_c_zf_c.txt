@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-03032010-085403";"";
+"TraceParts.ClassPath";"FLI:/F_FLI/FLI.1/FLI.1.1/10-03032010-085403";"";
+"TraceParts.InstanceId";"10-03032010-085403AWDN9WQ5Z10H56C28J8LYYHB9";"";
+"REFERENCE";"MGNR 9 R 600 C";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"SUPPLIER";"FLI";"";
+"MASS";"22.816";"kg";
+"DESIGN";"Rail: MGNR 9 R 600 C, Carriage: MGN 9 C ZF C";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartTitle";"MGN - Miniature linear guideway";"";
+"REFERENCE1";"MGN 9 C ZF C";"";
+"TraceParts.PartVersion";"1.1.4";"";
